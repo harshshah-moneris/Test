@@ -9,6 +9,7 @@
 import UIKit
 import CoreLocation
 import Swinject
+
 import SwinjectStoryboard
 
 private let maxDisplayableSpeed: CLLocationSpeed = 40 // m/s, or 144 km/h
